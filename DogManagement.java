@@ -51,10 +51,10 @@ public class DogManagement {
      * Global Declaration for parallel arrays and Scanner Object
      */
     //DECLARING PARALLEL ARRAYS OUTSIDE OF MAIN METHOD TO HOLD DOG DATA use the static keyword
-    public static int[] dogID = new int[100];
-    public static String [] dogName = new String[100];
-    public static int [] dogWeight = new int[100];
-    public static int [] dogAge = new int[100];
+    public static int[] dogID = new int[12];
+    public static String [] dogName = new String[12];
+    public static int [] dogWeight = new int[12];
+    public static int [] dogAge = new int[12];
     static int arrayLength = 0;
     static int i = 0;
 
